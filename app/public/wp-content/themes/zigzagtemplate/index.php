@@ -1,5 +1,5 @@
 <?php
 
-echo " Hello Zigzag plugin";
+echo " Hello Zigzag Template";
 
 ?>
