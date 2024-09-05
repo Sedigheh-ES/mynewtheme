@@ -1,2 +1,2 @@
 # mynewtheme
-this is the custom WordPress theme based on Bootstrap/PHP/JavaScript
+This is the custom WordPress theme based on Bootstrap/PHP/JavaScript from Figam 
